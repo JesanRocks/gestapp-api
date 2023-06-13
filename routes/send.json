@@ -1,0 +1,47 @@
+{
+    "id_card":"26997629",
+    "birthday":"1998-04-10",
+    "name":"Jesús Sandino",
+    "lastname":"Rodríguez Figuera",
+    "phone":"02923311644",
+    "mobile":"+5842491899923",
+    "sector":"Centro",
+    "street":"Ennio Gaudio",
+    "address":"Casa n° 72-95",
+    "department":"CyT",
+    "job_title":"Analista",
+    "contract":"Fijo",
+    "date_of_entry":"2023-01-09"
+}
+
+{
+    "id_card":"22708373",
+    "birthday":"1995-02-12",
+    "name":"Mariangela del Jesús",
+    "lastname":"Rodríguez Figuera",
+    "phone":"02923311644",
+    "mobile":"04241234567",
+    "sector":"Centro",
+    "street":"Ennio Gaudio",
+    "address":"Casa nº 72-95",
+    "department":"Direccion de educacacion, ciencia y tecnologia",
+    "job_title":"Profesora",
+    "contract":"Fijo",
+    "date_of_entry":"2023-01-09"
+}
+
+{
+    "id_card":"9898255",
+    "birthday":"1968-11-27",
+    "name":"Maria",
+    "lastname":"Figuera",
+    "phone":"02923311644",
+    "mobile":"04241234567",
+    "sector":"Centro",
+    "street":"Ennio Gaudio",
+    "address":"Casa nº 72-95",
+    "department":"Direccion de educacacion, ciencia y tecnologia",
+    "job_title":"Profesor(a)",
+    "contract":"Fijo",
+    "date_of_entry":"2023-01-09"
+}
